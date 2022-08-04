@@ -1,0 +1,23 @@
+
+# **Сайт не отображает адреса колледжа**
+
+## Description
+
+### **Steps:**
+1. открыть [сайт](https://www.medik-spo.ru/)
+2. нажать на кнопку “Наши адреса”
+### **Expected result:**
+увидеть список адресов.
+### **Actual result:**
+появляется ошибка  404 страница не найдена.
+### **Priority:**
+Low. Не требует немедленного решения.
+### **Severity:**
+Minor. Незначительная ошибка.
+
+## Environment
+
+### **Operating system:**
+Windows 10 (64-bit)
+### **Web browser:**
+Chrome 102
